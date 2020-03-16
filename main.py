@@ -4,3 +4,5 @@ print("ThirdLine")
 print("Ahoj Lukas")
 
 print("Ahoj MArtin")
+
+print("Ahoj martin zase")
